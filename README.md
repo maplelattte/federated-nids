@@ -14,7 +14,7 @@ with a central aggregation server. The server combines these updates
 using the FedAvg algorithm to produce a continuously improving global 
 detection model — without ever seeing the underlying data.
 
-## How it Works
+## How it Works here
 The system simulates a real-world 5G deployment with 5 base stations 
 acting as federated clients. Each client holds its own local dataset 
 of network flow records and trains independently. After every round 
