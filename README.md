@@ -65,7 +65,6 @@ The entire pipeline runs in Google Colab with no local setup required.
 2. Run all cells from top to bottom
 3. Charts and evaluation metrics generate automatically
 
-## Project Structure
 
 ## Team
 - [Aviral Upadhyay](https://github.com/maplelattte)
