@@ -53,9 +53,7 @@ measurements a real network sensor would capture.
 The federated model achieves approximately 86% overall accuracy 
 after 10 communication rounds. It performs particularly well on 
 high-volume attack types like DDoS and PortScan, which are detected 
-with near-perfect precision. The round-by-round accuracy graph below 
-shows consistent improvement as the global model benefits from 
-knowledge aggregated across all five clients.
+with near-perfect precision.
 
 
 ## Running the Project
